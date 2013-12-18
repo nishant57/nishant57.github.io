@@ -1,0 +1,27 @@
+h1 {
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    font-size: 37px;
+    
+}
+
+.a {
+    font-family: Georgia, "Helvetica Rounded", Arial, sans-serif;
+    font-size: 17px;
+    
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    background-color: #dcdcdc;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#footer {
+    width: 100%;
+    font-size: 80%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
