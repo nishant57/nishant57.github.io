@@ -30,6 +30,6 @@ h1 {
     margin: 0px;
 }
 
-
+#back { font-size: 100%; }
 #back a:link, a:visited { text-decoration: none; }
 
