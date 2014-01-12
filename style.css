@@ -29,3 +29,7 @@ h1 {
     left: 20px;
     margin: 0px;
 }
+
+#back {
+    a:link, a:visited { text-decoration: none; }
+}
