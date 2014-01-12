@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wishes</title>
+        <link rel="stylesheet" href="style.css"/>
+        <link rel="shortcut icon" href="/favicon.ico" type="image/icon">
+        <link rel="icon" href="/favicon.ico" type="image/icon">  
+    </head>
+    <body>
+        <div class = "center">
+        <h1>Wishes</h1>
+        <hr/>
+        <br>
+        <p class = "a"><li><ol>a</ol>
+                          <ol>a</ol>
+                          <ol>a</ol>
+                          </li></p>
+        </div>
+        <p id ="footer">*This page has been created to get a foot in the door of web development. As time progresses, I hope to make the much required improvements to it.</p>
+    </body>
+</html>
